@@ -22,7 +22,7 @@ Unfortunately, we were <i>not</i> able to complete the front-end part of the web
 
 ### Desktop
 
-<div aling="center">
+<div align="center">
 <img src="https://i.gyazo.com/16e100375daddef3ac4c19c26c7b0407.png"/>
 <sub>Illustration of the Employee Management Interface</sub>
 
