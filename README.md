@@ -30,6 +30,8 @@ Unfortunately, we were <i>not</i> able to complete the front-end part of the web
 <p><sub>Illustration of the Menu Management Interface</sub></p>
 </div>
 
+___
+
 ### Mobile
 
 <div align="center">
