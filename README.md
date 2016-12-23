@@ -37,7 +37,7 @@ Unfortunately, we were <i>not</i> able to complete the front-end part of the web
 <p><sub>Illustration of the Permission-level Interface</sub></p>
 
 <img src="https://github.com/alexboii/Blue-Jay-s-Cuisine/blob/master/Resources/mobile_screenshot_2.png"/>
-<p><sub>Illustartion of the Activity Selection Interface from the Stand-point of a Cook</sub></p>
+<p><sub>Illustartion of the Activity Selection Interface from the Cook's Perspective</sub></p>
 
 <img src="https://github.com/alexboii/Blue-Jay-s-Cuisine/blob/master/Resources/mobile_screenshot_3.png"/>
 <p><sub>Illustration of the Order Management Interface</sub></p>
