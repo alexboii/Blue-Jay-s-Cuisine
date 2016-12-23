@@ -22,16 +22,12 @@ Unfortunately, we were <i>not</i> able to complete the front-end part of the web
 
 ### Desktop
 
-<table class="image">
-<tr><td><img src="https://i.gyazo.com/16e100375daddef3ac4c19c26c7b0407.png"></td></tr>
-</table>
+<div aling="center">
+<img src="https://i.gyazo.com/16e100375daddef3ac4c19c26c7b0407.png">
 <sub>Illustration of the Employee Management Interface</sub>
 
-<table class="image">
-<tr><td><img src="https://i.gyazo.com/9a9cc862682894a15a1d69e5b164fcf8.png"></td></tr>
-<caption align="top">Illustration of the Food Menu Subsytem</caption>
-</table>
+<img src="https://i.gyazo.com/9a9cc862682894a15a1d69e5b164fcf8.png">
 <sub>Illustration of the Menu Management Interface</sub>
-
+</div>
 
 ### Mobile
