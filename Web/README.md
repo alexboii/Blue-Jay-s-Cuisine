@@ -23,6 +23,8 @@ To delpoy the project, setup XAMPP with PHP and copy the PHP project folder to t
 
 Please find below a link to the repositories for the different platform implementations of the food truck management system.
 
-* [Desktop Application](https://github.com/Fall2016-ECSE321/FoodTruckManagementDesktop)
+* [Desktop Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Desktop)
 
-* [Mobile Application](https://github.com/Fall2016-ECSE321/FoodTruckManagement_Mobile)
+* [Mobile Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Android%20Mobile)
+
+
