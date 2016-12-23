@@ -37,6 +37,7 @@ Output apk will be at app/build/outputs/apk/
 
 Please find below a link to the repositories for the different platform implementations of the food truck management system.
 
-* [Desktop Application](https://github.com/Fall2016-ECSE321/FoodTruckManagementDesktop)
+* [Desktop Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Desktop)
 
-* [Web Application](https://github.com/Fall2016-ECSE321/FoodTruckManagement_Web)
+* [Web Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Web) (incomplete) 
+
