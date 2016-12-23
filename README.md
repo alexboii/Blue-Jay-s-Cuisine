@@ -51,4 +51,4 @@ ___
 
 * [Mobile Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Android%20Mobile)
 
-* [Web Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Web) (Incomplete) 
+* [Web Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Web) (incomplete) 
