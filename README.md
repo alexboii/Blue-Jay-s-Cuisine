@@ -45,4 +45,10 @@ ___
 <p><sub>Illustration of the Order Management Interface</sub></p>
 </div>
 
+## Implementations 
 
+* [Desktop Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Desktop)
+
+* [Mobile Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Android%20Mobile)
+
+* [Web Application](https://github.com/alexboii/Blue-Jay-s-Cuisine/tree/master/Web) (Incomplete) 
