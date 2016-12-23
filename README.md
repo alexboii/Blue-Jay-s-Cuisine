@@ -10,7 +10,7 @@ Multi-platform application built for our semester long project in the ECSE 321 -
 
 In this project, we had to produce a system in three different platforms: desktop (Java Swing), mobile (Android) and web (PHP / HTML). The application is adapted for several actors. Managers have access to many logistical operations such as controlling inventory items, administrating a list of food and beverage offerings and managing the food truck's registry of employees; cooks also have power over the inventory, and cashiers are giving the ability to create customer orders within the application. Additionally, all users have access to their weekly schedule and respective shifts, and to a feature which tracks the popularity of menu items. 
 
-The model–view–controller (MVC) architectural style was used to design the project, as well as the Client-Sever architecture in the case of the web version. We used the Singleton, Factory, Composite and Adapter design patterns, among others. 
+The Model-View-Controller (MVC) architectural style was used to design the project, as well as the Client-Sever architecture in the case of the web version. We used the Singleton, Factory, Composite and Adapter design patterns, among others. 
 
 Unfortunately, we were <i>not</i> able to complete the front-end part of the web part before the deadline. 
 
