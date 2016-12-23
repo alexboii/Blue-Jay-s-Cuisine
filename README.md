@@ -12,7 +12,7 @@ In this project, we had to produce a system in three different platforms: deskto
 
 The Model-View-Controller (MVC) architectural style was used to design the project, as well as the Client-Sever architecture in the case of the web version. We used the Singleton, Factory, Composite and Adapter design patterns, among others. 
 
-Unfortunately, we were <i>not</i> able to complete the front-end part of the web part before the deadline. 
+Unfortunately, we were <i>not</i> able to complete the front-end part of the web part before the deadline due to unexpected circumstances. 
 
 ## Authors
 
