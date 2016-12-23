@@ -1,7 +1,7 @@
 # Blue Jay's Cuisine 
 
 <div align="center"> 
-<img src="https://github.com/alexboii/Blue-Jay-s-Cuisine/blob/master/logo.png"/>
+<img src="https://github.com/alexboii/Blue-Jay-s-Cuisine/blob/master/Resources/logo.png"/>
 </div> 
 
 ## Description 
@@ -23,11 +23,24 @@ Unfortunately, we were <i>not</i> able to complete the front-end part of the web
 ### Desktop
 
 <div align="center">
-<img src="https://i.gyazo.com/16e100375daddef3ac4c19c26c7b0407.png"/>
+<img src="https://github.com/alexboii/Blue-Jay-s-Cuisine/blob/master/Resources/desktop_screenshot_1.png"/>
 <p><sub>Illustration of the Employee Management Interface</sub></p>
 
-<img src="https://i.gyazo.com/9a9cc862682894a15a1d69e5b164fcf8.png"/>
+<img src="https://github.com/alexboii/Blue-Jay-s-Cuisine/blob/master/Resources/desktop_screenshot_2.png"/>
 <p><sub>Illustration of the Menu Management Interface</sub></p>
 </div>
 
 ### Mobile
+
+<img src="https://github.com/alexboii/Blue-Jay-s-Cuisine/blob/master/Resources/mobile_screenshot_1.png"/>
+<p><sub>Illustration of the Permission-level Interface</sub></p>
+</div>
+
+<img src="https://github.com/alexboii/Blue-Jay-s-Cuisine/blob/master/Resources/mobile_screenshot_2.png"/>
+<p><sub>Illustartion of the Activity Selection Interface from the Stand-point of a Cook</sub></p>
+</div>
+
+<img src="https://github.com/alexboii/Blue-Jay-s-Cuisine/blob/master/Resources/mobile_screenshot_2.png"/>
+<p><sub>Illustration of the Order Management Interface</sub></p>
+</div>
+
