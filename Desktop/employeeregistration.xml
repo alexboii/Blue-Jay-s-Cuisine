@@ -1,0 +1,12 @@
+<ca.mcgill.ecse321.foodtruck.model.EmployeeManager id="1">
+  <employees id="2">
+    <ca.mcgill.ecse321.foodtruck.model.Employee id="3">
+      <first__name>Sebastian</first__name>
+      <last__name>Andrade</last__name>
+      <currently__employed>false</currently__employed>
+      <weekly__hours>2.147483647E9</weekly__hours>
+      <hourly__salary>25.0</hourly__salary>
+      <id>1</id>
+    </ca.mcgill.ecse321.foodtruck.model.Employee>
+  </employees>
+</ca.mcgill.ecse321.foodtruck.model.EmployeeManager>

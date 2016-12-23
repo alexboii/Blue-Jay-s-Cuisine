@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_menu_item_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MenuItemView">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/menuItemErrorMessage"
+            android:textColor="#ff0000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Menu Item:"
+            android:textSize="18sp"
+            android:layout_marginTop="1dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginBottom="1dp"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:ems="10"
+                android:id="@+id/addMenuItemNameField"
+                android:layout_gravity="center_horizontal"
+                android:hint="Name" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:ems="4"
+                android:id="@+id/addMenuItemPriceField"
+                android:layout_gravity="center_horizontal"
+                android:hint="Price" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="$"
+                android:layout_gravity="center_vertical"
+                android:textSize="18sp"/>
+            </LinearLayout>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="  Description"
+            android:id="@+id/addMenuItemDescriptionField"
+            android:inputType="text"
+            android:background="@drawable/border"
+            android:layout_marginBottom="3dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:paddingLeft="10dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ingredients:"
+                android:textSize="18sp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="2dp"
+                android:id="@+id/textView" />
+
+        </LinearLayout>
+
+        <com.example.alex.foodtruckmanagement_mobile.NDSpinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ingredientSpinner"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="0dp" />
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="34dp"
+            android:id="@+id/ingredientListView" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ADD MENU ITEM"
+            android:onClick="addMenuItem"
+            android:layout_gravity="end"
+            android:id="@+id/addMenuItemBtn"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="3dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Remove Menu Item"
+            android:textSize="18sp"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="3dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:layout_marginBottom="10dp">
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/removeMenuItemSpinner"
+                android:layout_weight="0.91">
+            </Spinner>
+
+
+        </LinearLayout>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Remove"
+            android:onClick="removeMenuItem"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

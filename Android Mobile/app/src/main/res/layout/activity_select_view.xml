@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".SelectView">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:text="Employees"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnEmployees"
+            android:layout_weight="1.00"
+            android:layout_width="match_parent"
+            android:background="@android:color/transparent"
+            android:drawableLeft="@drawable/apron"
+            android:elevation="0dp"
+            android:textStyle="normal|italic"
+            android:textIsSelectable="false"
+            android:textSize="30sp"
+            android:onClick="goToEmployeeMenu" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:src="@drawable/line"
+            android:layerType="software" />
+
+        <Button
+            android:text="Shifts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnShifts"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:drawableLeft="@drawable/clipboard"
+            android:layout_alignParentBottom="false"
+            android:layout_alignParentLeft="false"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            android:textIsSelectable="false"
+            android:textStyle="normal|italic"
+            android:textSize="30sp"
+            android:onClick="goToShiftMenu" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:src="@drawable/line"
+            android:layerType="software" />
+        <Button
+            android:text="Inventory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnInventory"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:drawableLeft="@drawable/dishes"
+            android:textSize="30sp"
+            android:textStyle="normal|italic"
+            android:onClick="goToInventoryMenu" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:src="@drawable/line"
+            android:layerType="software" />
+        <Button
+            android:text="Menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnMenu"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:drawableLeft="@drawable/menu"
+            android:textSize="30sp"
+            android:textStyle="normal|italic"
+            android:onClick="goToMenuItemMenu" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:src="@drawable/line"
+            android:layerType="software" />
+        <Button
+            android:text="Orders"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnOrders"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:drawableLeft="@drawable/bell"
+            android:textSize="30sp"
+            android:textStyle="normal|italic"
+            android:onClick="goToOrderMenu" />
+    </LinearLayout>
+</RelativeLayout>

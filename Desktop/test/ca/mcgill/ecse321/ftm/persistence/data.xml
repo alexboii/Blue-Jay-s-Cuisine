@@ -1,0 +1,28 @@
+<manager id="1">
+  <employees id="2">
+    <employee id="3">
+      <first__name>Alexander</first__name>
+      <last__name>Bratyshkin</last__name>
+      <currently__employed>true</currently__employed>
+      <weekly__hours>15.0</weekly__hours>
+      <hourly__salary>13.0</hourly__salary>
+      <id>1</id>
+    </employee>
+    <employee id="4">
+      <first__name>Bogdan</first__name>
+      <last__name>Dumitru</last__name>
+      <currently__employed>true</currently__employed>
+      <weekly__hours>10.0</weekly__hours>
+      <hourly__salary>15.0</hourly__salary>
+      <id>2</id>
+    </employee>
+    <employee id="5">
+      <first__name>Sebastian</first__name>
+      <last__name>Andrade</last__name>
+      <currently__employed>true</currently__employed>
+      <weekly__hours>55.0</weekly__hours>
+      <hourly__salary>75.0</hourly__salary>
+      <id>3</id>
+    </employee>
+  </employees>
+</manager>
