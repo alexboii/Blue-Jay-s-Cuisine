@@ -24,10 +24,10 @@ Unfortunately, we were <i>not</i> able to complete the front-end part of the web
 
 <div align="center">
 <img src="https://i.gyazo.com/16e100375daddef3ac4c19c26c7b0407.png"/>
-<sub>Illustration of the Employee Management Interface</sub>
+<p><sub>Illustration of the Employee Management Interface</sub></p>
 
 <img src="https://i.gyazo.com/9a9cc862682894a15a1d69e5b164fcf8.png"/>
-<sub>Illustration of the Menu Management Interface</sub>
+<p><sub>Illustration of the Menu Management Interface</sub></p>
 </div>
 
 ### Mobile
